@@ -1,7 +1,6 @@
 # terraform-aci-vpc-l3out
 
-Terraform module to set up an L3Out with two VPCs, one in each DC
-Defaults will deploy to the DataCenter 1800F Firewalls
+Terraform module to set up an L3Out with one or more VPCs, one in each DC
 
 # Example, over configured
 
